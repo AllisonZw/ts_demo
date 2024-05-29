@@ -9,6 +9,6 @@
 // unknow 没有办法读取任何属性 方法也不可以调用
 // unknow 比 any 更加安全
 
-let xiaowen: any = { shuai: true, open: () => 123 }
-console.log(xiaowen.shuai)
+// let xiaowen: any = { shuai: true, open: () => 123 }
+// console.log(xiaowen.shuai)
 // 123
